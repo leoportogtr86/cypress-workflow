@@ -1,0 +1,23 @@
+{
+  "name": "cypress-workflow",
+  "version": "1.0.0",
+  "description": "Este repositório contém meus estudos e experimentos sobre a utilização do GitHub Actions para automatizar fluxos de trabalho de CI/CD, executando testes e2e com o Cypress em projetos JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoportogtr86/cypress-workflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leoportogtr86/cypress-workflow/issues"
+  },
+  "homepage": "https://github.com/leoportogtr86/cypress-workflow#readme",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}
