@@ -5,6 +5,6 @@ describe('Um Teste Simples de Dados', () => {
             idade: 40
         }
         cy.wrap(pessoa.nome).should('be.equal', 'Joe');
-        cy.wrap(pessoa.idade).should('be.equal', 42);
+        cy.wrap(pessoa.idade).should('be.equal', 40);
     });
 })
