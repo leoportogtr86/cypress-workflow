@@ -1,5 +1,9 @@
 # Estudos sobre GitHub Actions, Cypress e Testes E2E em JavaScript
 
+![E2E Tests](https://github.com/leoportogtr86/cypress-workflow/actions/workflows/cypress.yml/badge.svg)
+
+Este repositório contém meu projeto, que utiliza testes e2e com Cypress e GitHub Actions.
+
 Este repositório contém meus estudos e experimentos sobre a utilização do GitHub Actions para automatizar fluxos de trabalho de CI/CD, executando testes e2e com o Cypress em projetos JavaScript.
 
 ## Tópicos abordados
@@ -25,5 +29,3 @@ Cada pasta neste repositório representa um exercício ou experimento relacionad
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
-
-![E2E Tests](https://github.com/leoportogtr86/cypress-workflow/actions/workflows/cypress.yml/badge.svg)
