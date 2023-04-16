@@ -25,3 +25,5 @@ Cada pasta neste repositório representa um exercício ou experimento relacionad
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+
+![E2E Tests](https://github.com/leoportogtr86/cypress-workflow/actions/workflows/cypress.yml/badge.svg)
