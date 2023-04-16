@@ -1,0 +1,22 @@
+on: push
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Confgurar o nodejs
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16
+
+      - name: Checkout do código
+        uses: actions/checkout@v2
+
+      - name: Instalar as dependências
+        run: npm ci
+
+      - name: Executar os testes
+        run: npx cypress run
+
+    
+ 
